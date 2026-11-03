@@ -1,1 +1,2 @@
 Today is my first git class
+git class is good
