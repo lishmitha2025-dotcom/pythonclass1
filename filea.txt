@@ -1,2 +1,9 @@
 Today is my first git class
+<<<<<<< HEAD
 git class is good
+=======
+git class is good
+git class is very good
+today my final git class
+today is final git class
+>>>>>>> 5d1250d1e0fd391b81f487e9ca432689cb2bea5f
