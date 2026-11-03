@@ -1,2 +1,3 @@
 Today is my first git class
 git class is good
+git class is very good
